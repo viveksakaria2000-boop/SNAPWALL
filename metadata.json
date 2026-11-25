@@ -1,0 +1,6 @@
+{
+  "name": "SnapWall Studio",
+  "description": "Live QR code event photo booth that streams guest camera shots directly to your laptop and Google Drive, with a built-in editorial collage studio.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
